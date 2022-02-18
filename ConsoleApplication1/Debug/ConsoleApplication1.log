@@ -1,0 +1,3 @@
+﻿  Game.cpp
+c:\users\suhaa\desktop\projects\oops\consoleapplication1\consoleapplication1\game.cpp(230): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication1.vcxproj -> C:\Users\suhaa\Desktop\Projects\OOPS\ConsoleApplication1\Debug\ConsoleApplication1.exe

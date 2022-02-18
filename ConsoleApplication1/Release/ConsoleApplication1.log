@@ -1,0 +1,13 @@
+﻿  Bullet.cpp
+  Game.cpp
+c:\users\suhaa\desktop\projects\oops\consoleapplication1\consoleapplication1\game.cpp(230): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+c:\users\suhaa\desktop\projects\oops\consoleapplication1\consoleapplication1\main.cpp(9): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  player.cpp
+  Ship.cpp
+  Stone.cpp
+c:\users\suhaa\desktop\projects\oops\consoleapplication1\consoleapplication1\stone.cpp(15): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  Generating code
+  All 473 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ConsoleApplication1.vcxproj -> C:\Users\suhaa\Desktop\Projects\OOPS\ConsoleApplication1\Release\ConsoleApplication1.exe
